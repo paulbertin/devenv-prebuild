@@ -20,7 +20,7 @@ sudo id
 
 # prepare devenv source
 chmod g+w /usr/src
-sudo -u "${USER_NAME}" git clone https://github.com/cachix/devenv.git /usr/src/devenv
+sudo -u "${USER_NAME}" git clone https://github.com/paulbertin/devenv.git /usr/src/devenv
 
 # create folders
 create_tool_path > /dev/null
