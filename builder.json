@@ -1,9 +1,9 @@
 {
   "image": "devenv",
-  "depName": "cachix/devenv",
+  "depName": "paulbertin/devenv",
   "datasource": "github-tags",
   "versioning": "loose",
-  "startVersion": "2.3",
+  "startVersion": "2.3.1",
   "ignoredVersions": [],
   "reverse": true
 }
