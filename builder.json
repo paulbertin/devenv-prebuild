@@ -1,6 +1,6 @@
 {
   "image": "devenv",
-  "depName": "paulbertin/devenv",
+  "depName": "cachix/devenv",
   "datasource": "github-tags",
   "versioning": "loose",
   "startVersion": "2.3.1",
